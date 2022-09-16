@@ -8,6 +8,11 @@ public class Main {
             str2 = str2.toUpperCase();
             name = str1 + "." + str2;
             return name;
+
+
+
+
+
         }
 
     public static void main(String[] args) {
